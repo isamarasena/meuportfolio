@@ -116,7 +116,7 @@ export default function Hero() {
               {/* Main image */}
               <div className="relative rounded-3xl overflow-hidden shadow-2xl shadow-brown-dark/15 aspect-[3/4]">
                 <Image
-                  src="/images/isa.jpeg"
+                  src="/meuportfolio/images/isa.jpeg"
                   alt="Isa Sena - Profissional Criativa"
                   fill
                   className="object-cover"
