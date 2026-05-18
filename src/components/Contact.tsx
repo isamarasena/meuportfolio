@@ -59,7 +59,7 @@ export default function Contact() {
               {/* Email */}
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 bg-white/10 rounded-xl flex items-center justify-center p-3 overflow-hidden">
-                  <img src="/images/email.png" alt="Email" className="w-6 h-6 object-contain" />
+                  <img src="/meuportfolio/images/email.png" alt="Email" className="w-6 h-6 object-contain" />
                 </div>
                 <div>
                   <p className="text-white/50 text-sm mb-0.5">Email</p>
@@ -75,7 +75,7 @@ export default function Contact() {
               {/* Phone */}
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 bg-white/10 rounded-xl flex items-center justify-center p-3 overflow-hidden">
-                  <img src="/images/celular.png" alt="Telefone" className="w-6 h-6 object-contain" />
+                  <img src="/meuportfolio/images/celular.png" alt="Telefone" className="w-6 h-6 object-contain" />
                 </div>
                 <div>
                   <p className="text-white/50 text-sm mb-0.5">Telefone</p>

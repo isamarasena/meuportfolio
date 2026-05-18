@@ -49,7 +49,7 @@ export default function Header() {
             {/* Logo */}
             <Link href="/" className="group relative flex items-center h-16">
               <img
-                src="/images/logo.png"
+                src="/meuportfolio/images/logo.png"
                 alt="Isa Sena"
                 className="h-14 w-auto object-contain transition-transform duration-300 group-hover:scale-105"
                 onError={(e) => {
@@ -77,7 +77,7 @@ export default function Header() {
                 </Link>
               ))}
               <a
-                href="/cv-isa-sena.pdf"
+                href="/meuportfolio/cv-isa-sena.pdf"
                 download
                 className="px-6 py-2.5 bg-brown-dark text-white text-sm font-medium rounded-full hover:bg-brown-medium transition-all duration-300 hover:shadow-lg hover:shadow-brown-dark/20 hover:-translate-y-0.5"
               >
@@ -147,7 +147,7 @@ export default function Header() {
                 transition={{ delay: 0.5 }}
               >
                 <a
-                  href="/cv-isa-sena.pdf"
+                  href="/meuportfolio/cv-isa-sena.pdf"
                   download
                   className="px-8 py-3 bg-brown-dark text-white text-lg font-medium rounded-full hover:bg-brown-medium transition-all duration-300"
                 >
